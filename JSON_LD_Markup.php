@@ -1,6 +1,6 @@
 <?php
 
-namespace vnh;
+namespace vnh\markup;
 
 use vnh\contracts\Bootable;
 use vnh\contracts\Displayable;

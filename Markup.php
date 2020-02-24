@@ -1,12 +1,7 @@
 <?php
 
-namespace vnh;
+namespace vnh\markup;
 
-use vnh\markup\Breadcrumb;
-use vnh\markup\Comment;
-use vnh\markup\Entry;
-use vnh\markup\General;
-use vnh\markup\Search_Form;
 use vnh\contracts\Bootable;
 use vnh\contracts\Initable;
 
